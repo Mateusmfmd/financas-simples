@@ -4,7 +4,7 @@ Visão mensal para decisões financeiras melhores.
 
 ## Demo
 
-Este projeto é uma demonstração independente de portfólio, com interface responsiva e interações funcionais no navegador.
+Esta é uma aplicação independente, com interface responsiva e interações funcionais no navegador.
 
 ## Problema
 
